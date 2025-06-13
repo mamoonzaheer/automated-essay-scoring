@@ -17,7 +17,7 @@ This project implements an automated essay scoring system using machine learning
 - `tfidf_vectorizer.joblib`: Saved TF-IDF vectorizer
 - `rf_model.joblib`: Saved Random Forest model
 
-Note: The trained model file rf.joblib is not included in this repository because of size limits on GitHub.
+Note: The trained model file rf.joblib and dataset train.csv are not included in this repository because of size limits on GitHub.
 
 ## Setup and Installation
 
